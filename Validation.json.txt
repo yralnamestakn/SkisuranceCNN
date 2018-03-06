@@ -1,0 +1,8 @@
+﻿[
+{"message" : "Buch bitte premium für mich", "intent" : "book", "id" : 101},
+{"message" : "Ich nehme bitte den Basis Tarif", "intent" : "book", "id" : 102},
+{"message" : "Wobei kannst du mich unterstützen?", "intent" : "functionality", "id" : 103},
+{"message" : "Was sind deine Fähigkeiten", "intent" : "functionality", "id" : 104},
+{"message" : "Ich habe einen Unfall gebaut", "intent" : "claim", "id" : 105},
+{"message" : "Ich habe mir den Arm gebrochen", "intent" : "claim", "id" : 106}
+]
